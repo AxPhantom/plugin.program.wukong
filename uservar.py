@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR crimson][B]Wukong[/B][/COLOR]Wizard'
 BUILDERNAME = 'Wukong'
 EXCLUDES = [ADDON_ID, 'repository.wukongwizardwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/axphantom/Builds/refs/heads/master/builds.txt'
+BUILDFILE = 'https://www.dropbox.com/scl/fi/dwq9au3dez9t8y8xh2t78/builds.txt?rlkey=wef7ap9afr6ayowhyu0nlrj17&st=26g52sn0&dl=1'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
