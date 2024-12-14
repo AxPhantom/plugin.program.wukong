@@ -13,11 +13,11 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR crimson][B]Ragnarok[/B][/COLOR]Wizard'
-BUILDERNAME = 'Ragnarok'
-EXCLUDES = [ADDON_ID, 'repository.ragnarokwizard']
+ADDONTITLE = '[COLOR crimson][B]Wukong[/B][/COLOR]Wizard'
+BUILDERNAME = 'Wukong'
+EXCLUDES = [ADDON_ID, 'repository.wukongwizardwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/AxPhantom/Builds/master/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/AxPhantom/Builds/refs/heads/master/builds.txt '
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
