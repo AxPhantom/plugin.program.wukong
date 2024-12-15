@@ -15,7 +15,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 ADDONTITLE = '[COLOR crimson][B]Wukong[/B][/COLOR]Wizard'
 BUILDERNAME = 'Wukong'
-EXCLUDES = [ADDON_ID, 'repository.wukongwizardwizard']
+EXCLUDES = [ADDON_ID, 'repository.wukong']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'https://www.dropbox.com/scl/fi/dwq9au3dez9t8y8xh2t78/builds.txt?rlkey=wef7ap9afr6ayowhyu0nlrj17&st=26g52sn0&dl=1'
 # How often you would like it to check for build updates in days
@@ -98,9 +98,9 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.wukongwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/repo/zips/addons.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/repo/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/AxPhantom/repository.wukongwizard/master/'
+REPOZIPURL = 'https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/'
 #########################################################
 
 #########################################################
